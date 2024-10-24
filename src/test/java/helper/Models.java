@@ -41,7 +41,7 @@ public class Models {
     public static Response postCreateUsersTakenEmail (String endpoint) {
         String name = "Zach";
         String gender = "male";
-        String email = "dc_abbott_chandranath@lubowitz.test";
+        String email = "pres_patel_sushma@batz.test";
         String status = "active";
         JSONObject payload = new JSONObject();
         payload.put("name", name);
